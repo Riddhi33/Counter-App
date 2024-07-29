@@ -1,1 +1,1 @@
-# Counter-App-and-Todo-List-App
+# Counter App
